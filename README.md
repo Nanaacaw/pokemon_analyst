@@ -32,7 +32,7 @@ This dataset contains information about various types of Pokémon with the follo
 
 ## Analysis Summary
 ### Data Cleaning
-- Removed 386 missing values in the 'Type 2' column.
+- There are 386 missing values in the 'Type 2' column. However, I ignored it as it had no effect on the subsequent analysis..
 - Removed the unused `#` column.
 
 ### Key Insights
